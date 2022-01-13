@@ -25,7 +25,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: rgb(51, 11, 116);
   font-size: 250%;
 
 
@@ -44,7 +44,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
 /*  - PARALLAX - 
 This code controls that cool parallax image and scrolling effect. Change the image "feet4.jpg" below to match your asset.*/
 /*You can always add more parllax assets on your web document, just follow the directions at the bottom of the index.html.*/
-.parallax-1 { 
+.parallax-1 {11}
   background-image: url("family.png");
 
   /* Set a specific height */
